@@ -1,4 +1,4 @@
-# news
+# (Deprecated) news
 
 
 Crawl daily news
